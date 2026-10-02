@@ -1,0 +1,7 @@
+1,Ana Souza,1.65,58.00,21.30
+2,Carlos Lima,1.80,95.00,29.32
+3,Mariana Alves,1.60,45.00,17.58
+4,João Pereira,1.75,110.00,35.92
+5,Beatriz Rocha,1.70,72.00,24.91
+6,Pedro Santos,1.72,130.00,43.94
+7,Mikael Theovaldo,1.63,61.00,22.96
