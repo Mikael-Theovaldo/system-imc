@@ -4,5 +4,6 @@
 4,João Pereira,1.75,110.00,35.92
 5,Beatriz Rocha,1.70,72.00,24.91
 6,Pedro Santos,1.72,130.00,43.94
-7,Mikael Theovaldo,1.73,61.00,22.96
+7,Mikael Theovaldo,1.73,61.00,20.38
 8,Nayara,1.70,65.00,22.49
+9,Pinóquio,1.50,20.00,8.89
