@@ -161,10 +161,6 @@ public class HelloApplication extends Application {
         tabela.getColumns().addAll(colId, colNome, colAltura, colPeso, colImc, colClass);
     }
 
-    // =====================================================================
-    // Ações dos botões
-    // =====================================================================
-
     /** Botão "Calcular IMC": só mostra o resultado, não grava nada. */
     private void aoCalcular() {
         try {
@@ -209,10 +205,6 @@ public class HelloApplication extends Application {
             mostrarAlerta(Alert.AlertType.ERROR, "Erro ao carregar", e.getMessage());
         }
     }
-
-    // =====================================================================
-    // Métodos auxiliares
-    // =====================================================================
 
     /** Lê os TextFields, converte os números e cria a Pessoa (lança exceção se algo for inválido). */
     private Pessoa criarPessoaDosCampos(int id) {
